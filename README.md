@@ -24,7 +24,7 @@ TBD
 - Guia 2: [Regresión Lineal - Extra: preprocesamiento dataset](https://github.com/LCD-UNSAM/iaa2023c1/blob/main/guias/IAA_Guia_2_PrePro_Dataset.ipynb)
 
 
-##Bibliografía 
+## Bibliografía 
 
 Los dos libros que recomendamos para los temas que son abordados en la materia son el Gerón (no es gratuito) y el Bishop (se puede descargar gratuitamente en el link). 
 
