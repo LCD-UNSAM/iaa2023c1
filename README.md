@@ -30,7 +30,7 @@ Los dos libros que recomendamos para los temas que son abordados en la materia s
 
 - A. Gerón. [Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow.](https://www.amazon.com/Aur%C3%A9lien-G%C3%A9ron/dp/1492032646) O'Reilly Media; 2nd edition.
 
-![Geron_cover](https://user-images.githubusercontent.com/69168014/227303090-0e462c8a-7aef-4fba-9fdf-b0b7e37cee23.png)
+![Geron_cover (1)](https://user-images.githubusercontent.com/69168014/227304662-874ca971-9e0b-4bcb-bc04-e01470214ef5.png)
 
 - C. Bishop. [Pattern Recognition and Machine Learning.](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/) Springer.
 
