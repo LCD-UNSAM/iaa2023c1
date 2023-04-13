@@ -23,6 +23,7 @@ TBD
 - Guia 2: [Regresión Lineal - Extras](https://github.com/LCD-UNSAM/iaa2023c1/blob/main/guias/IAA_Guia_2_RegresionLineal_Extras.ipynb)
 - Guia 2: [Regresión Lineal - Extra: preprocesamiento dataset](https://github.com/LCD-UNSAM/iaa2023c1/blob/main/guias/IAA_Guia_2_PrePro_Dataset.ipynb)
 - Guia 3: [Clasificación Binaria](https://github.com/LCD-UNSAM/iaa2023c1/blob/main/guias/IAA_Guia_3_ClasificacionBinaria.ipynb)
+- Guia 4: [Regresión Polinomial](https://github.com/LCD-UNSAM/iaa2023c1/blob/main/guias/IAA_Guia_4_RegresionPolinomica.ipynb)
 
 ## Bibliografía 
 
