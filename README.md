@@ -11,9 +11,6 @@ La estructura del repositorio es la siguiente:
     ├── LICENSE
     └── README.md
 
-## Contenidos de la Materia
-TBD
-
 ## Guias
 - Guia 0: [Python - Local o en la nube](https://github.com/LCD-UNSAM/iaa2023c1/blob/main/guias/IAA_Guia_0_Python.pdf)
 - Guia 0: [Repaso Python 1](https://github.com/LCD-UNSAM/iaa2023c1/blob/main/guias/IAA_Guia_0_Repaso_Python_1.ipynb)
