@@ -21,7 +21,9 @@ La estructura del repositorio es la siguiente:
 - Guia 2: [Regresión Lineal - Extra: preprocesamiento dataset](https://github.com/LCD-UNSAM/iaa2023c1/blob/main/guias/IAA_Guia_2_PrePro_Dataset.ipynb)
 - Guia 3: [Clasificación Binaria](https://github.com/LCD-UNSAM/iaa2023c1/blob/main/guias/IAA_Guia_3_ClasificacionBinaria.ipynb)
 - Guia 4: [Regresión Polinomial](https://github.com/LCD-UNSAM/iaa2023c1/blob/main/guias/IAA_Guia_4_RegresionPolinomica.ipynb)
-- Guia 4: [Regularización](https://github.com/LCD-UNSAM/iaa2023c1/blob/main/guias/IAA_Guia_5_Regularizacion.ipynb)
+- Guia 5: [Regularización](https://github.com/LCD-UNSAM/iaa2023c1/blob/main/guias/IAA_Guia_5_Regularizacion.ipynb)
+- Guia 6: [Regularización](https://github.com/LCD-UNSAM/iaa2023c1/blob/main/guias/IAA_Guia_6_Arboles.ipynb)
+- Guia 7: [Sesgo y Varianza](https://github.com/LCD-UNSAM/iaa2023c1/blob/main/guias/IAA_Guia_7_BiasVariance.ipynb)
 
 ## Bibliografía 
 
