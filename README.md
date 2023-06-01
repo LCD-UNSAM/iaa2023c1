@@ -25,6 +25,7 @@ La estructura del repositorio es la siguiente:
 - Guia 6: [Regularización](https://github.com/LCD-UNSAM/iaa2023c1/blob/main/guias/IAA_Guia_6_Arboles.ipynb)
 - Guia 7: [Sesgo y Varianza](https://github.com/LCD-UNSAM/iaa2023c1/blob/main/guias/IAA_Guia_7_BiasVariance.ipynb)
 - Guia 8: [Validación Cruzada](https://github.com/LCD-UNSAM/iaa2023c1/blob/main/guias/IAA_Guia_8_CV.ipynb)
+- Guia 9: [Clasificación Avanzada](https://github.com/LCD-UNSAM/iaa2023c1/blob/main/guias/IAA_Guia_9_ClasificacionAvanzada.ipynb)
 
 ## Bibliografía 
 
